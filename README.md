@@ -1,3 +1,4 @@
-### Hi! I'm Luiz
+### Hey! I'm Luiz
 - Molecular Sciences undergraduate student at USP.
-- I'm mostly interested in mathematics and it's intersection with computer science.
+- I'm mostly interested in mathematics, low-level programming and computer graphics.
+- Lover of abstract non-sense (a.k.a. category theory).
