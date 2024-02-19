@@ -1,4 +1,12 @@
 ### Hey! I'm Luiz
-- Molecular Sciences undergraduate student at USP.
-- I'm mostly interested in mathematics, low-level programming and computer graphics.
-- Lover of abstract non-sense (a.k.a. category theory).
+
+I'm a Molecular Sciences undergraduate student at USP.
+
+My main interests lie within:
+- Computer graphics
+- Game engine development
+- Low-level programming at large
+
+I also love studying high-level mathematics, mostly algebraic topology!
+
+You can find more stuff about me in [my website](https://luizmugnaini.github.io)
