@@ -4,9 +4,9 @@ I'm a Molecular Sciences undergraduate student at USP.
 
 My main interests lie within:
 
-- Computer graphics 🎨
-- Game engine development ⚒️
-- Performance-oriented low-level programming in general ⚡
+- Computer graphics
+- Game engine development
+- Performance-oriented low-level programming in general
 
 I also love studying high-level mathematics, mostly algebraic topology!
 
