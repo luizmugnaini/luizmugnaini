@@ -10,6 +10,4 @@ My main interests lie within:
 
 I also love studying high-level mathematics, mostly algebraic topology!
 
-My go-to languages are C, C++, Rust and a tiny bit of Python.
-
 You can find more stuff about me in [my website](https://luizmugnaini.github.io)
