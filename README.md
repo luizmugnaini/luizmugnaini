@@ -5,7 +5,7 @@ I'm currently doing my Masters in CS at the University of São Paulo.
 My main interests lie within:
 
 - Computer graphics
-- Game engine development
+- Game development
 - Performance-oriented low-level programming in general
 - Algebraic topology and differential geometry
 
