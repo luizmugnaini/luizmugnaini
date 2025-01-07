@@ -10,3 +10,5 @@ My main interests lie within:
 - Algebraic topology and differential geometry
 
 You can find more stuff about me in https://luizmugnaini.github.io
+
+> I don't support AI technology in any form or way.
