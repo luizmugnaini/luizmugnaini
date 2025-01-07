@@ -11,4 +11,4 @@ My main interests lie within:
 
 You can find more stuff about me in https://luizmugnaini.github.io
 
-> I don't support AI technology in any form or way.
+> I don't support AI technology in any way or form.
