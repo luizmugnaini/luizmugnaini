@@ -1,6 +1,6 @@
 Yo!
 
-I'm currently doing my Masters in CS at the University of São Paulo.
+I'm currently doing my Master's in CS at the University of São Paulo.
 
 My main interests lie within:
 
