@@ -10,5 +10,3 @@ My main interests lie within:
 - Algebraic topology and differential geometry
 
 You can find more stuff about me in https://presheaf.dev
-
-> I don't support AI technology in any way or form.
