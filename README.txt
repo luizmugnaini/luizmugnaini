@@ -9,6 +9,18 @@ My main interests lie within:
 - Performance-oriented low-level programming in general
 - Algebraic topology and differential geometry
 
-You can find more stuff about me in https://presheaf.dev
+You can find more stuff about me at https://presheaf.dev
 
-> I don't support AI technology in any way or form.
+/* ****************************************************************************
+ *                                DISCLAIMER
+ *
+ * - My projects are now hosted at https://git.sr.ht/~presheaf
+ * - This account will be used solely for interacting with projects hosted here.
+ *
+ * Why? Because we need to take hold of our freedom back from the monopolies,
+ * which are draining data from us daily for their own profit - while we gain
+ * nothing but ads and indirect manipulation in return.
+ *
+ * We can still collaborate and share knowledge via other more secure channels.
+ * Remember, if you don't pay for the service, your soul is the payment.
+ * ****************************************************************************/
