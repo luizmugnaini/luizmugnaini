@@ -22,6 +22,6 @@ You can find more stuff about me at https://presheaf.dev
  * which are draining data from us daily for their own profit - while we gain
  * nothing but ads and indirect manipulation in return.
  *
- * We can still collaborate and share knowledge via other more secure channels.
+ * We can still collaborate and share knowledge via other safer channels.
  * Remember, if you don't pay for the service, your soul is the payment.
  * ****************************************************************************/
