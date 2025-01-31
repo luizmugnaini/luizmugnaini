@@ -14,7 +14,8 @@ You can find more stuff about me at https://presheaf.dev
 /* ****************************************************************************
  *                                DISCLAIMER
  *
- * - My projects are now hosted at https://git.sr.ht/~presheaf
+ * - My projects are now hosted at https://git.sr.ht/~presheaf and development
+ *   of my projects will only continue there - all repositories here are stale.
  * - This account will be used solely for interacting with projects hosted here.
  *
  * Why? Because we need to take hold of our freedom back from the monopolies,
